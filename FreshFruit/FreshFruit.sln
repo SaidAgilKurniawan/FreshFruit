@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreshFruit", "FreshFruit.csproj", "{26BDC6F9-9D60-4641-B19C-5DDCF0B2ED7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26BDC6F9-9D60-4641-B19C-5DDCF0B2ED7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BDC6F9-9D60-4641-B19C-5DDCF0B2ED7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BDC6F9-9D60-4641-B19C-5DDCF0B2ED7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BDC6F9-9D60-4641-B19C-5DDCF0B2ED7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CE64208-7C06-49CB-9C91-0CCB3017D5D8}
+	EndGlobalSection
+EndGlobal
